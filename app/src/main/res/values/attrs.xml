@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="states">
+        <attr name="state_expanded" format="boolean" />
+        <attr name="state_collapsed" format="boolean" />
+    </declare-styleable>
+</resources>

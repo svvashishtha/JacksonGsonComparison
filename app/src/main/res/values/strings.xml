@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JacksonGsonSample</string>
+    <string name="gson_sample">GSON Demo</string>
+    <string name="jackson_sample">Jackson Demo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start_jackson_parser">Start Jackson Parser</string>
+    <string name="number_of_iterations">Number of iterations</string>
+    <string name="_1000">1000</string>
+    <string name="serialize_and_deserialize">Serialize and deserialize</string>
+    <string name="serialize_only">Serialize Only</string>
+    <string name="advanced">Advanced</string>
+    <string name="start_parser">Start Parser</string>
+    <string name="current_iteration">Current iteration :</string>
+    <string name="start_gson_parser">Start Gson Parser</string>
+    <string name="total_time">Total time</string>
+    <string name="average_time">Average Time</string>
+</resources>
